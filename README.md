@@ -46,7 +46,7 @@ Here are a few projects I've worked on:
 - **Building a Compiler From Scratch:** Implemented all 4 basic functionalities (symbol table, lexical analyzer, syntax and semantics analyzer) of a compiler in C++, YACC and Flex.
 - **Canteen Food Ordering System:** Using microcontroller, arduino mega, python and MYSQL, designed a food ordering system for a card-based cafeteria.
 - **4-bits MIPS Design and Implementation Using Atmega32 and Basic ICs:** Used python to generate machine codes from Assembly 8086 instructions and then feed them into Atmega32 to execute basic functions of a processor.
-- **Implementation and Modification of Westwood-BR in NS2:** Using NS2, implemented Westwood-BR routing protocol for wireless communication and made some adjustments to the algorithm (for rate of change in window size change) and monitored the performance of the algorithm.
+- **Implementation and Modification of Westwood-BR in NS2:** Using NS2, implemented Westwood-BR routing protocol for wireless communication and made some adjustments to the algorithm (for rate of change in window size) and monitored the performance of the algorithm.
 
 ## Interests
 
