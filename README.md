@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-Hello! I'm Sheikh Hasanul Banna, a dedicated programmer with a passion for solving complex problems.
+Hello! I'm Sheikh Hasanul Banna, a dedicated programmer, learner and researcger with a passion for learning and implementing ways to solving complex problems.
 
 ## Education
 
@@ -48,11 +48,14 @@ Here are a few projects I've worked on:
 - **4-bits MIPS Design and Implementation Using Atmega32 and Basic ICs:** Used python to generate machine codes from Assembly 8086 instructions and then feed them into Atmega32 to execute basic functions of a processor.
 - **Implementation and Modification of Westwood-BR in NS2:** Using NS2, implemented Westwood-BR routing protocol for wireless communication and made some adjustments to the algorithm (for rate of change in window size) and monitored the performance of the algorithm.
 
-## Interests
+## ResearchInterests
 
-- **Programming:** Exploring new technologies and solving complex problems.
-- **Swimming:** A relaxing and invigorating activity that keeps me fit.
-- **Reading:** Diving into different worlds of fantasy, mystery and thrillers.
+- **Human-Computer Interaction**
+- **Computer Security**
+- **Network Security**
+- **Digital Forensics**
+- **Computer Networking**
+- **Machine Learning**
 
 Feel free to explore my repositories and reach out if you have any questions or interesting opportunities!
 
