@@ -48,7 +48,7 @@ Here are a few projects I've worked on:
 - **4-bits MIPS Design and Implementation Using Atmega32 and Basic ICs:** Used python to generate machine codes from Assembly 8086 instructions and then feed them into Atmega32 to execute basic functions of a processor.
 - **Implementation and Modification of Westwood-BR in NS2:** Using NS2, implemented Westwood-BR routing protocol for wireless communication and made some adjustments to the algorithm (for rate of change in window size) and monitored the performance of the algorithm.
 
-## ResearchInterests
+## Research Interests
 
 - **Human-Computer Interaction**
 - **Computer Security**
