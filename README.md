@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-Hello! I'm Sheikh Hasanul Banna, a dedicated programmer, learner and researcger with a passion for learning and implementing ways to solving complex problems.
+Hello! I'm Sheikh Hasanul Banna, a dedicated programmer, learner and researcher with a passion for learning and implementing ways to solving complex problems.
 
 ## Education
 
